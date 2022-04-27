@@ -1,0 +1,121 @@
+@font-face{
+	font-family:"Stardew";
+	src: url(Fonts/Stardew_Valley.ttf);
+}
+.intro{
+	background-image: url("Img/Background.jpg");
+	background-color: #5CD5EC;
+	background-repeat: no-repeat;
+	background-size:100%;
+
+}
+.Jogar{
+	display:block;
+	width:10%;
+	margin:43% auto;
+	
+	
+}
+.Jogar:hover {
+	box-shadow:0 0 2px 2px #6A4320;
+	
+	
+}
+
+
+.options{
+	background-color: #000000;
+	background-image: url("Img/Textbox.png");
+	background-repeat: no-repeat;
+	background-size:100%;
+	width: 500px;
+	height:173px;
+	margin:auto;
+	display: inline-block;
+	position: relative;
+	top:15%;
+
+}
+.yes{
+	color: #322420;
+	width: 93%;
+	position: relative;
+	font-family:"Stardew";
+	font-size: 32px;
+	left:14px;
+	top:15px;
+	padding: 0.8%;
+	
+}
+.no{
+	color: #322420;
+	width: 93%;
+	position: relative;
+	font-family:"Stardew";
+	font-size: 32px;
+	left:14px;
+	top:25px;
+	padding: 0.8%;
+}
+.yes:hover {
+	box-shadow:0 0 4px 4px #b52121;
+	color: #b52121;
+	
+	
+}
+.no:hover {
+	box-shadow:0 0 4px 4px #b52121;
+	color: #b52121
+	
+}
+.termos{
+	align-items:center;
+	background-color: #85c6da;
+}
+.nope{
+	font-family:"Stardew";
+	color:red;
+	display:inline-block;
+	width:40%;
+	font-size: 100px;
+	position:relative;
+	left:50px;
+	bottom:40px;
+
+}
+.yess{
+	font-family:"Stardew";
+	color: green;
+	width: 40%;
+	display: inline-block;
+	position:relative;
+	left:50px;
+	bottom: 80px;
+	font-size: 130px;
+
+}
+.grey{
+	background-color: #3c3c3c;
+	font-size: 50px;
+}
+.stardrop{
+	position:relative;
+	left:100px;
+	top:40px;
+}
+.galinha{
+	margin: auto;
+	position: relative;
+	left:33%;
+}
+.senhora{
+	width: 45%;
+	position:absolute;
+	right:0px;
+
+}
+.try{
+	display: block;
+	font-size: 30px;
+	margin-left: 100px;
+}
